@@ -3,7 +3,7 @@ theme = "tokyonight"
 [editor]
 true-color= true
 cursorline = true
-line-number = "relative"
+#line-number = "relative"
 mouse = false
 bufferline  = "multiple"
 color-modes = true
